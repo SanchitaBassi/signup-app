@@ -1,0 +1,3 @@
+[submodule "melodyverse-frontend"]
+	path = melodyverse-frontend
+	url = https://github.com/SanchitaBassi/melodyverse-frontend.git
