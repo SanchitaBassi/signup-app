@@ -14,7 +14,7 @@ Security Best Practices: Input validation, sanitization, and password hashing.
 **Backend**
 **Clone the Repository:**
 bash
-git clone https://github.com/yourusername/melodyverse.git
+git clone https://github.com/ySanchitaBassi/signup-app.git
 cd melodyverse/backend
 
 **Install Dependencies:**
